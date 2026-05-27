@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/37e74497-f50f-4371-bcf1-c542679b1d46/resourceGroups/staticwebapp/providers/Microsoft.Web/sites/tomassegurowebapp",
-    "appService.deploySubpath": "."
-}
